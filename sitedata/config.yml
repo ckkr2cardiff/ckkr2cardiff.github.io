@@ -1,5 +1,5 @@
-name: CU Knowledge Representation and Reasoning (KRR) Group
-tagline: UCL Deciding, Acting, and Reasoning with Knowledge (DARK) Lab
+name: Cardiff University Knowledge Representation and Reasoning (KRR) Group
+tagline: CU Knowledge Representation and Reasoning (KRR) Group
 date: 
 citation_date: 
 proceedings_title: 
@@ -11,10 +11,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'UCL DARK Lab'
+  prefix: 'CU KRR Group'
   separator: ': '
 background_image: static/images/main.jpg
-organization: UCL DARK Lab
+organization: CU KRR Group
 
 # Remove or change to your chat server.
 #chat_server: miniconf.sloppy.zone
