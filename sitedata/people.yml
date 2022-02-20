@@ -1,190 +1,59 @@
 faculty:
   - role: Lecturer
-    name: Víctor Gutiérrez Basto
+    name: Víctor Gutiérrez-Basulto
     im: https://cardiff.imgix.net/__data/assets/image/0005/1009634/victor-gutierrez-basulto.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     tw: vicgtzbasulto
     scholar: scholar.google.co.uk/citations?user=L2eFo5IAAAAJ&hl=en
-    home: https://dblp.org/pid/36/8486.html
+    home: dblp.org/pid/36/8486.html
     note: Reasoning in Ontology-Enriched Systems, Reasoning with Temporal or Probabilistic Knowledge, Integration of Reasoning, Learning, Plausible Reasoning with Ontologies
   - role: Senior Lecturer
     name: Richard Booth
     tw: mukau71
-    home: https://dblp.org/pid/58/6050.html
+    home: dblp.org/pid/58/6050.html
     scholar: scholar.google.co.uk/citations?hl=en&user=r2orIhYAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0008/2489138/473179-1610655392289.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Belief Revision/Merging, Argumentation Theory, Computational Social Choice 
   - role: Professor 
     name: Steven Schockaert
     tw: StevenSchockae2
-    home: https://dblp.org/pid/29/3972.html
+    home: dblp.org/pid/29/3972.html
     scholar: scholar.google.com/citations?hl=en&user=hNCN09AAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0017/134333/schockaert-steven.png?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note:  Reasoning with Imperfect Information, Commonsense Reasoning, Conceptual Spaces, Representation Learning, Lexical Semantics
   - role: Lecturer
-    name: Yazmín Ibáñez-Gar
-    home: https://dblp.org/pid/57/8677.html
+    name: Yazmín Ibáñez-García
+    home: dblp.org/pid/57/8677.html
     scholar: scholar.google.com/citations?hl=en&user=7ag8h6sAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0020/2451602/1418353-1600785571749.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note:  Artificial Intelligence, Knowledge Representation and Reasoning, Description Logics
   - role: Lecturer
     name: Martin Caminada
-    home: https://dblp.org/pid/89/299.html
+    home: dblp.org/pid/89/299.html
     scholar: scholar.google.co.uk/citations?hl=en&user=PyfFzdUAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0003/2387181/473184-1588777296938.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Knowledge Representation and Reasoning, Non-monotonic Reasoning, Computational Models of Argument
   - role: Lecturer
     name: Usashi Chatterjee
-    home: https://dblp.org/pid/158/7229.html
+    home: dblp.org/pid/158/7229.html
     scholar: scholar.google.co.uk/citations?hl=en&user=ftJvvHwAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0020/2411822/1496216-1593454479919.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Semantic Web, Knowledge Representation and Reuse, Knowledge-Driven Human Information Interaction, Information Seeking and Searching
   - role: Lecturer
     name: Hiroyuki Kido
-    home: https://dblp.org/pid/78/5206.html
+    home: dblp.org/pid/78/5206.html
     scholar: scholar.google.co.uk/citations?hl=en&user=PzwETlYAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0008/1743767/1724085-1578480649644.jpeg?w=120&h=120&auto=format&crop=faces&fit=crop
     note: Bayesian Machine Learning, Non-classical Logic and Argumentation
   - role: Lecturer
     name: Sylwia Polberg
-    home: https://dblp.org/pid/01/10429.html
+    home: dblp.org/pid/01/10429.html
     scholar: scholar.google.co.uk/citations?hl=en&user=00wi2WAAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0007/1453399/sylwia-polberg.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Argument-based Approaches for Modelling Agents and Dialogues, Reasoning with Uncertainty
-researchers:
-  - role: Senior Research Fellow
-    name: Pasquale Minervini
-    home: www.neuralnoise.com/
-    github: pminervini
-    scholar: scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=9sk6CSgAAAAJ&citpid=3
-    tw: pminervini
 
 phd:
-  - role: PhD Student (2021—)
-    name: Akbir Khan
-    im: static/images/people/Akbir.jpg
-    tw: akbirkhan
-    scholar: https://scholar.google.co.uk/citations?user=zRyMIW0AAAAJ&hl=en
-    github: akbir
-    home: www.akbir.dev/about
-    interests:
-  - role: PhD Student (2021—)
-    name: Laura Ruis
-    im: static/images/people/laura.jpg
-    tw: LauraRuis
-    scholar: scholar.google.com/citations?user=k0vrm6kAAAAJ&hl=en
-    home: www.lauraruis.com/
-    interests:
-  - role: PhD Student (2021—)
-    name: Yingchen Xu
-    im: static/images/people/yingchen.jpg
-    tw: YingchenX
-    home: yingchenxu.com
-    scholar: scholar.google.com/citations?user=-CqyjXEAAAAJ&hl=en
-    interests:
-  - role: PhD Student (2020—)
-    name: Zhengyao Jiang
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=J8pFrgwAAAAJ&citpid=2
-    tw: zhengyaojiang
-    home: zhengyaojiang.github.io
-    scholar: scholar.google.co.jp/citations?user=J8pFrgwAAAAJ&hl=en
-    github: ZhengyaoJiang
-    interests: neural-symbolic methods; model-based reinforcement learning; generalization in reinforcement learning
-  - role: PhD Student (2020—)
-    name: Robert Kirk
-    im: https://pbs.twimg.com/profile_images/1219003032270245888/Wt4oxa_g_400x400.jpg 
-    tw: _robertkirk
-    github: RobertKirk
-    interests:
-  - role: PhD Student (2020—)
-    name: Mikayel Samvelyan
-    home: www.samvelyan.com
-    scholar: scholar.google.co.uk/citations?user=2Qs19WAAAAAJ&hl=en
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=2Qs19WAAAAAJ&citpid=11
-    tw: samveIyan
-    github: samvelyan
-    interests:
   - role: PhD Student (2019—)
-    name: Minqi Jiang
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=b7LglM0AAAAJ&citpid=1
-    scholar: scholar.google.com/citations?user=b7LglM0AAAAJ&hl=en
-    home: minch.co
-    tw: MinqiJiang
-    github: minqi
-    interests:
-
-msc:
-  - role: MSc Student (2022)
-    name: Jonathan Cook
-    im: static/images/people/jonathan.jpg
-    github: jonathan-cook235
-    scholar: scholar.google.com/citations?user=7tcPHHYAAAAJ&hl=en
-  - role: MSc Student (2022)
-    name: Newton Kwan
-    im: static/images/people/newton.jpg
-    github: newtonkwan
-    home: newtonkwan.com
-
-alumni:
-  - role: MSc Student (2021)
-    name: Hannah Teufel
-    im: static/images/people/hannah.jpg
-  - role: MSc Student (2021)
-    name: Mikey Matthews
-    tw: mitrma
-    im: static/images/people/mikey.jpg
-    note: Now a Machine Learning Researcher at Vivacity Labs
-  - role: MSc Student (2021)
-    name: Robert McHardy
-    tw: robert_mchardy
-    im: static/images/people/robertm.jpg
-    note: Now an AI Research Engineer at InstaDeep
-  - role: MSc Student (2021)
-    name: Ian Wu
-    tw: IanWu74457919
-    im: static/images/people/ian.jpg
-    note: Now a Data Scientist at C3.ai
-  - role: MSc Student (2021)
-    name: Matthew Jackson
-    tw: JacksonMattT
-    im: static/images/people/matt.jpg
-    home: https://matthewtjackson.com/
-    note: Now a PhD student at Oxford
-  - role: MSc Student (2021)
-    name: Andy Ehrenberg
-    tw: andy_ehrenberg
-    im: static/images/people/andy.jpg
-  - role: MSc Student (2020)
-    name: Christina Kouridi
-    im: static/images/people/ck.jpeg
-    tw: CKouridi
-    note: Now a Research Engineer at InstaDeep
-  - role: MSc Student (2020)
-    name: Udeepa Meepegama
-    im: https://pbs.twimg.com/profile_images/1201675803811037184/XXpnLd1e_400x400.jpg
-    tw: udeepa_m
-  - role: MRes Student (2019—2020)
-    name: Zhengyao Jiang
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=J8pFrgwAAAAJ&citpid=2
-    tw: zhengyaojiang
-    note: Now PhD student at UCL DARK
-  - role: MSc Student (2019—2020)
-    name: Yuchen Zhu
-    im: 
-    tw:
-    note: Now PhD student at UCL
-  - role: MSc Student (2019)
-    name: Joe Stacey
-    im: 
-    tw:
-    note: Now PhD student at Imperial College London
-  - role: MSc Student (2019)
-    name: Isaac Kamlish
-    im: 
-    tw: isaacdkam
-    note: Now data scientist at Facebook
-  - role: MSc Student (2019)
-    name: Artem Yurlov
-    im: 
-    tw:
-    note: Now intern at JPMorgan Chase & Co
+    name: Joseph Singleton
+    im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4O_nYaMAAAAJ&citpid=1
+    scholar: scholar.google.co.uk/citations?user=4O_nYaMAAAAJ&hl=en
+    home: users.cs.cf.ac.uk/SingletonJ1/
