@@ -5,7 +5,7 @@ citation_date:
 proceedings_title: 
 analytics: UA-
 logo:
-  image: static/images/logo.png
+  image: static/images/krr.png
   width: 130px
   height: auto
 # uncomment the following line to show the site title next to the logo image
@@ -13,7 +13,7 @@ logo:
 page_title:
   prefix: 'CU KRR Group'
   separator: ': '
-background_image: static/images/main.jpg
+background_image: static/images/background.png
 organization: CU KRR Group
 
 # Remove or change to your chat server.
