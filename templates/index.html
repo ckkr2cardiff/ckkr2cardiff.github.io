@@ -56,26 +56,27 @@
           {{ end }}
         </div>
     </div>
-    <div>
+ <!-- People   <div>
         <a class="twitter-timeline" data-width="350" data-height="500" href="https://twitter.com/ucl_dark?ref_src=twsrc%5Etfw">
         Tweets by ucl_dark</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </div>
+-->
 
 <!-- People -->
-{{ components.section("Faculty") }}
+{{ components.section("Staff") }}
 {{ components.organizergroup(faculty) }}
-
+<!-- People 
 {{ components.section("Researchers") }}
-{{ components.organizergroup(researchers) }}
+{{ components.organizergroup(researchers) }}-->
 
 {{ components.section("PhD Students") }}
 {{ components.organizergroup(phd) }}
-
+<!-- People 
 {{ components.section("Master's Students") }}
-{{ components.organizergroup(msc) }}
-
+{{ components.organizergroup(msc) }}-->
+<!-- People 
 {{ components.section("Alumni") }}
-{{ components.organizergroup(alumni) }}
+{{ components.organizergroup(alumni) }}-->
 
 {% endblock %}
