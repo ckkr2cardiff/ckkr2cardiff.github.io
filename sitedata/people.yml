@@ -1,12 +1,11 @@
 faculty:
-  - role: Associate Professor
-    name: Tim Rocktäschel
-    im: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mWBY8aIAAAAJ&citpid=8
+  - role: Lecturer
+    name: Víctor Gutiérrez Basul
+    im: https://cardiff.imgix.net/__data/assets/image/0005/1009634/victor-gutierrez-basulto.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     tw: _rockt
-    scholar: scholar.google.de/citations?user=mWBY8aIAAAAJ&hl=en
+    scholar: https://scholar.google.co.uk/citations?user=L2eFo5IAAAAJ&hl=en
     home: rockt.github.io
-    github: rockt
-    note:
+    interests: Reasoning in Ontology-Enriched Systems; Reasoning with Temporal or Probabilistic Knowledge; Integration of Reasoning, Learning; Plausible Reasoning with Ontologies
   - role: Honorary Professor
     name: Edward Grefenstette
     tw: egrefen
