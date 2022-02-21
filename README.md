@@ -1,4 +1,6 @@
-The [UCL Deciding, Acting, and Reasoning with Knowledge (**DARK**) Lab](https://dark.cs.ucl.ac.uk/) is a Reinforcement Learning research group at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/). We focus on research in [complex open-ended environments](https://arxiv.org/abs/2006.13760) that provide a constant stream of novel observations without reliable reward functions, often requiring agents to [create their own curricula](https://arxiv.org/abs/2010.03934) and to deal with [external knowledge](https://arxiv.org/abs/1910.08210), [natural language](https://arxiv.org/abs/1906.03926), and [hard exploration problems](https://arxiv.org/abs/2002.12292).
+The [**Knowledge Representation and Reasoning research group (KRR)**](https://www.cardiff.ac.uk/research/explore/research-units/cardiff-knowledge-representation-and-reasoning) at Cardiff University aims to develop novel methods for capturing, modelling and reasoning about knowledge encoded in symbolic or sub-symbolic forms. We also have a particular interest in research that crosses the boundaries of various AI fields, including Neuro-Symbolic reasoning, commonsense reasoning, and representation learning.
+We offer expertise in: **Ontology-enhanced Systems**, **Knowledge Graphs**, **Temporal and Probabilistic Reasoning**,  **Neuro-symbolic Reasoning**, **Non-monotonic Reasoning**, **Belief change**, **Controlled Natural Language**, **Computational Social Choice**.
+
 
 ## Update your information
 Edit `sitedata/people.yml`
@@ -22,10 +24,6 @@ Edit `sitedata/people.yml`
 5. `git commit -am "[YOUR MSG]"`
 6. `git push origin`
 
-### On the web interface:
-1. Append a new row to https://github.com/ucl-dark/ucl-dark.github.io/blob/master/sitedata/papers.csv
-2. Upload an image of the paper to https://github.com/ucl-dark/ucl-dark.github.io/tree/master/static/images/papers
-    * file name should be "[YOUR PAPER UID].jpg"
 
 ## Add a news
 ### On commandline:
@@ -37,10 +35,8 @@ Edit `sitedata/people.yml`
 4. `git commit -am "[YOUR MSG]"`
 5. `git push origin`
 
-### On the web interface:
-1. Append a new row to https://github.com/ucl-dark/ucl-dark.github.io/blob/master/sitedata/news.yml
-    * message is in markdown format
+
 
 ## Steps to update the site
-The following steps are optional (in case you want your modifications show immediately on the http://dark.cs.ucl.ac.uk/) :
+The following steps are optional (in case you want your modifications show immediately on the https://ckkr2cardiff.github.io/) :
 `bash deploy.sh`
