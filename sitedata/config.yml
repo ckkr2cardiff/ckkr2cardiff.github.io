@@ -1,5 +1,5 @@
 name: Cardiff University Knowledge Representation and Reasoning (KRR) Group
-tagline: CU Knowledge Representation and Reasoning (KRR) Group
+tagline: Knowledge Representation and Reasoning (KRR) Research Group
 date: 
 citation_date: 
 proceedings_title: 
@@ -11,7 +11,7 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'CU KRR Group'
+  prefix: 'KRR Group - Cardiff University'
   separator: ': '
 background_image: static/images/background.png
 organization: CU KRR Group
