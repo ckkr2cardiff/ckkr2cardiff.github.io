@@ -8,7 +8,7 @@
     type: Journal
     url: https://jair.org/index.php/jair/article/view/11038/26209
 -   UID: GogaczGIJM19
-    title: On Finite and Unrestricted Query Entailment beyond {SQ} with Number Restrictions on Transitive Roles
+    title: On Finite and Unrestricted Query Entailment beyond SQ with Number Restrictions on Transitive Roles
     authors: Thomas Gogacz|Víctor Gutiérrez-Basulto|Yazmín Ibáñez-García| Jean Christoph Jung|Filip Murlak
     abstract: We study the description logic SQ with number restrictions applicable to transitive roles, extended with either nominals or inverse roles. We show tight 2EXPTIME upper bounds for unrestricted entailment of regular path queries for both extensions and finite entailment of positive existential queries for nominals. For inverses, we establish 2EXPTIME-completeness for unrestricted and finite entailment of instance queries (the latter under restriction to a single, transitive role).
     proceedings: IJCAI'19
@@ -82,7 +82,7 @@
     url: https://arxiv.org/pdf/2005.00961.pdf
 -   UID:  CaminadaMartin2021
     title: "Comparing logic programming and formal argumentation; the case of ideal and eager semantics"
-    authors: Martin Caminada|Sri Harikrishnan｜Samy Sá 
+    authors: Martin Caminada|Sri Harikrishnan|Samy Sá 
     abstract: The connection between logic programming and formal argumentation has been studied starting from the landmark 1995 paper of Dung. Subsequent work has identified a standard translation from logic programs to (instantiated) argumentation frameworks, under which pairwise correspondences hold between various logic programming semantics and various formal argumentation semantics. This includes the correspondence between 3-valued stable and complete semantics, between well-founded and grounded semantics and between 2-valued stable (LP) and stable (argumentation) semantics. In the current paper, we show that the existing translation is able to yield the additional correspondence between ideal semantics for logic programming and ideal semantics for formal argumentation. We also show that correspondence does not hold between eager semantics for logic programming and eager semantics for formal argumentation, at least when translating from logic programming to formal argumentation. Overall, the current work should be seen as completing the analysis of correspondences between mainstream admissibility-based argumentation semantics and their logic programming counterparts.
     proceedings: "Argument & Computation"
     year: 2021

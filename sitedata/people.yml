@@ -4,49 +4,49 @@ faculty:
     im: https://cardiff.imgix.net/__data/assets/image/0005/1009634/victor-gutierrez-basulto.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     tw: vicgtzbasulto
     scholar: scholar.google.co.uk/citations?user=L2eFo5IAAAAJ&hl=en
-    home: dblp.org/pid/36/8486.html
+    home: www.cardiff.ac.uk/people/view/543129-gutierrez-basulto-victor
     note: Reasoning in Ontology-Enriched Systems, Reasoning with Temporal or Probabilistic Knowledge, Integration of Reasoning, Learning, Plausible Reasoning with Ontologies
   - role: Senior Lecturer
     name: Richard Booth
     tw: mukau71
-    home: dblp.org/pid/58/6050.html
+    home: www.cardiff.ac.uk/people/view/473179-booth-richard
     scholar: scholar.google.co.uk/citations?hl=en&user=r2orIhYAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0008/2489138/473179-1610655392289.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Belief Revision/Merging, Argumentation Theory, Computational Social Choice 
   - role: Professor 
     name: Steven Schockaert
     tw: StevenSchockae2
-    home: dblp.org/pid/29/3972.html
+    home: www.cardiff.ac.uk/people/view/133772-schockaert-steven
     scholar: scholar.google.com/citations?hl=en&user=hNCN09AAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0017/134333/schockaert-steven.png?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note:  Reasoning with Imperfect Information, Commonsense Reasoning, Conceptual Spaces, Representation Learning, Lexical Semantics
   - role: Lecturer
     name: Yazmín Ibáñez-García
-    home: dblp.org/pid/57/8677.html
+    home: www.cardiff.ac.uk/people/view/1418353-ibanez-garcia-yazmin
     scholar: scholar.google.com/citations?hl=en&user=7ag8h6sAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0020/2451602/1418353-1600785571749.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note:  Artificial Intelligence, Knowledge Representation and Reasoning, Description Logics
   - role: Lecturer
     name: Martin Caminada
-    home: dblp.org/pid/89/299.html
+    home: www.cardiff.ac.uk/people/view/473184-caminada-martin
     scholar: scholar.google.co.uk/citations?hl=en&user=PyfFzdUAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0003/2387181/473184-1588777296938.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Knowledge Representation and Reasoning, Non-monotonic Reasoning, Computational Models of Argument
   - role: Lecturer
     name: Usashi Chatterjee
-    home: dblp.org/pid/158/7229.html
+    home: www.cardiff.ac.uk/people/view/1496216-chatterjee-usashi
     scholar: scholar.google.co.uk/citations?hl=en&user=ftJvvHwAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0020/2411822/1496216-1593454479919.jpeg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Semantic Web, Knowledge Representation and Reuse, Knowledge-Driven Human Information Interaction, Information Seeking and Searching
   - role: Lecturer
     name: Hiroyuki Kido
-    home: dblp.org/pid/78/5206.html
+    home: www.cardiff.ac.uk/people/view/1724085-kido-hiroyuki
     scholar: scholar.google.co.uk/citations?hl=en&user=PzwETlYAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0008/1743767/1724085-1578480649644.jpeg?w=120&h=120&auto=format&crop=faces&fit=crop
     note: Bayesian Machine Learning, Non-classical Logic and Argumentation
   - role: Lecturer
     name: Sylwia Polberg
-    home: dblp.org/pid/01/10429.html
+    home: www.cardiff.ac.uk/people/view/1453389-polberg-sylwia
     scholar: scholar.google.co.uk/citations?hl=en&user=00wi2WAAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0007/1453399/sylwia-polberg.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Argument-based Approaches for Modelling Agents and Dialogues, Reasoning with Uncertainty
@@ -56,9 +56,9 @@ phd:
     name: Joseph Singleton
     im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4O_nYaMAAAAJ&citpid=1
     scholar: scholar.google.co.uk/citations?user=4O_nYaMAAAAJ&hl=en
-    home: users.cs.cf.ac.uk/SingletonJ1/
+    home: www.cardiff.ac.uk/people/research-students/view/1708571-singleton-joseph
     note: Truth discovery, computational social choice, epistemic logic, belief revision, argumentation
   - role: PhD Student
     name: Gregory Butterworth
-    home: uk.linkedin.com/in/gregorybutterworth
+    home: www.cardiff.ac.uk/people/research-students/view/1472112-butterworth-gregory
     note: E-democracy, liquid democracy, deliberation
