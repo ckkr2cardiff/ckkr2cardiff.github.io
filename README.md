@@ -1,6 +1,7 @@
 The [**Knowledge Representation and Reasoning research group (KRR)**](https://www.cardiff.ac.uk/research/explore/research-units/cardiff-knowledge-representation-and-reasoning) at Cardiff University aims to develop novel methods for capturing, modelling and reasoning about knowledge encoded in symbolic or sub-symbolic forms. We also have a particular interest in research that crosses the boundaries of various AI fields, including Neuro-Symbolic reasoning, commonsense reasoning, and representation learning.
 We offer expertise in: **Ontology-enhanced Systems**, **Knowledge Graphs**, **Temporal and Probabilistic Reasoning**,  **Neuro-symbolic Reasoning**, **Non-monotonic Reasoning**, **Belief change**, **Controlled Natural Language**, **Computational Social Choice**.
 
+*Created with the templates provided by [**UCL DARK Lab**](https://dark.cs.ucl.ac.uk/).*
 
 ## Update your information
 Edit `sitedata/people.yml`
