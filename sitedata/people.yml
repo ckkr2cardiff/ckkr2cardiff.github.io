@@ -50,6 +50,12 @@ faculty:
     scholar: scholar.google.co.uk/citations?hl=en&user=00wi2WAAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0007/1453399/sylwia-polberg.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Argument-based Approaches for Modelling Agents and Dialogues, Reasoning with Uncertainty
+  - role: Postdoc
+    name: Akash Anil
+    scholar: scholar.google.co.in/citations?user=umUQUMYAAAAJ&hl=en
+    im: static/images/people/akash_pr.jpeg
+    note: Social Network Analysis, Graph Neural Networks
+  
 
 phd:
   - role: PhD Student (2019—)
@@ -62,3 +68,11 @@ phd:
     name: Gregory Butterworth
     home: www.cardiff.ac.uk/people/research-students/view/1472112-butterworth-gregory
     note: E-democracy, liquid democracy, deliberation
+
+others:
+- role: Research Officer
+  name: Zhiliang Xiang
+  im: static/images/people/zhiliang.jpeg
+  github: mexicer
+  note: Integrations of Learning and Reasoning, Knowledge Representation and Reasoning, Logic Programming, Representation Learning
+  

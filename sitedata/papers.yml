@@ -1,15 +1,15 @@
 -   UID: GutierrezBasulto17
     title: Probabilistic Description Logics for Subjective Uncertainty
-    authors: Víctor Gutiérrez-Basulto|Jean Christoph Jung|Carsten Lutz|Lutz Schröderl
+    authors: Víctor Gutiérrez-Basulto|Jean Christoph Jung|Carsten Lutz|Lutz Schröder
     abstract: We propose a family of probabilistic description logics (DLs) that are derived in a principledway from Halpern’s probabilistic first-order logic.  The resulting probabilistic DLs have atwo-dimensional  semantics  similar  to  temporal  DLs  and  are  well-suited  for  representingsubjective probabilities.  We carry out a detailed study of reasoning in the new family oflogics, concentrating on probabilistic extensions of the DLsALCandEL, and showing thatthe complexity ranges fromPTimeviaExpTimeand 2ExpTimeto undecidable
     keywords: description logics
-    proceedings: J. Artif. Intell. Res.
+    proceedings: Journal of Artificial Intelligence Research
     year: 2017
     type: Journal
     url: https://jair.org/index.php/jair/article/view/11038/26209
 -   UID: GogaczGIJM19
     title: On Finite and Unrestricted Query Entailment beyond SQ with Number Restrictions on Transitive Roles
-    authors: Thomas Gogacz|Víctor Gutiérrez-Basulto|Yazmín Ibáñez-García| Jean Christoph Jung|Filip Murlak
+    authors: Tomasz Gogacz|Víctor Gutiérrez-Basulto|Yazmín Ibáñez-García| Jean Christoph Jung|Filip Murlak
     abstract: We study the description logic SQ with number restrictions applicable to transitive roles, extended with either nominals or inverse roles. We show tight 2EXPTIME upper bounds for unrestricted entailment of regular path queries for both extensions and finite entailment of positive existential queries for nominals. For inverses, we establish 2EXPTIME-completeness for unrestricted and finite entailment of instance queries (the latter under restriction to a single, transitive role).
     proceedings: IJCAI'19
     year: 2019
@@ -104,7 +104,14 @@
     year: 2018
     type: Journal
     url: https://orca.cardiff.ac.uk/120622/1/dialogue_paper_5_arxiv.pdf
-    
+-   UID:  Usashi21
+    title: "Context-based understanding of food-related queries using a culinary knowledge model"
+    authors: Usashi Chatterjee
+    abstract: "Dietary practices are governed by a mix of ethnographic aspects, such as social, cultural and environmental factors. These aspects need to be taken into consideration during an analysis of food-related queries. Queries are usually ambiguous. It is essential to understand, analyse and refine the queries for better search and retrieval. The work is focused on identifying the explicit, implicit and hidden facets of a query, taking into consideration the context – culinary domain. This article proposes a technique for query understanding, analysis and refinement based on a domain specific knowledge model. Queries are conceptualised by mapping the query term to concepts defined in the model. This allows an understanding of the semantic point of view of a query and an ability to determine the meaning of its terms and their interrelatedness. The knowledge model acts as a backbone providing the context for query understanding, analysis and refinement and outperforms other models, such as Schema.org, BBC Food Ontology and Recipe Ontology."
+    proceedings: Journal of Information Science
+    year: 2021
+    type: Journal
+    url: https://orca.cardiff.ac.uk/120622/1/dialogue_paper_5_arxiv.pdf
 
     
     
