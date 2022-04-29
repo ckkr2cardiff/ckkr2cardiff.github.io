@@ -68,6 +68,10 @@ phd:
     name: Gregory Butterworth
     home: www.cardiff.ac.uk/people/research-students/view/1472112-butterworth-gregory
     note: E-democracy, liquid democracy, deliberation
+  - role: PhD Student (2022- )
+    name: Aric Fowler
+    im: static/images/people/Aric_Fowler.jpeg
+    note: Multi-objective optimisation, computational social choice, complexity
 
 others:
 - role: Research Officer
