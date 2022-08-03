@@ -72,12 +72,13 @@ phd:
     name: Aric Fowler
     im: static/images/people/Aric_Fowler.jpeg
     note: Multi-objective optimisation, computational social choice, complexity
+  - role: PhD Student (2022/10 - )
+    name: Zhiliang Xiang
+    home: zl-xiang.github.io
+    im: static/images/people/zhiliang.jpeg
+    scholar: scholar.google.com/citations?hl=en&user=jzhgmNIAAAAJ
+    github: zl-xiang
+    note: Integrations of Learning and Reasoning, Knowledge Representation and Reasoning, Logic Programming, Representation Learning
 
-others:
-- role: Research Officer
-  name: Zhiliang Xiang
-  home: zl-xiang.github.io
-  im: static/images/people/zhiliang.jpeg
-  github: zl-xiang
-  note: Integrations of Learning and Reasoning, Knowledge Representation and Reasoning, Logic Programming, Representation Learning
+
   
