@@ -1,5 +1,5 @@
 faculty:
-  - role: Lecturer
+  - role: Senior Lecturer
     name: Víctor Gutiérrez-Basulto
     im: https://cardiff.imgix.net/__data/assets/image/0005/1009634/victor-gutierrez-basulto.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     tw: vicgtzbasulto
@@ -50,6 +50,13 @@ faculty:
     scholar: scholar.google.co.uk/citations?hl=en&user=00wi2WAAAAAJ
     im: https://cardiff.imgix.net/__data/assets/image/0007/1453399/sylwia-polberg.jpg?w=200&h=200&auto=format&crop=faces&fit=crop&q=60
     note: Argument-based Approaches for Modelling Agents and Dialogues, Reasoning with Uncertainty
+  - role: Lecturer
+    name: Nico Potyka
+    tw: NicoPotyka
+    home: profiles.cardiff.ac.uk/staff/potykan
+    scholar: scholar.google.de/citations?user=_ik3L7wAAAAJ&hl=de
+    im: https://profiles-cardiff.imgix.net/attachments/4247?w=200&h=200&auto=format&crop=faces&fit=crop&q=90"
+    note: Explainable AI, Knowledge Graphs and Description Logics, Computational Argumentation, Probabilistic Reasoning, Inconsistency Tolerance
   - role: Postdoc
     name: Akash Anil
     scholar: scholar.google.co.in/citations?user=umUQUMYAAAAJ&hl=en
@@ -72,13 +79,13 @@ phd:
     name: Aric Fowler
     im: static/images/people/Aric_Fowler.jpeg
     note: Multi-objective optimisation, computational social choice, complexity
-  - role: PhD Student (2022/10 - )
+  - role: PhD Student (1/2023 - )
     name: Zhiliang Xiang
     home: zl-xiang.github.io
     im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jzhgmNIAAAAJ&citpid=1
     scholar: scholar.google.com/citations?hl=en&user=jzhgmNIAAAAJ
     github: zl-xiang
-    note: Integrations of Learning and Reasoning, Knowledge Representation and Reasoning, Logic Programming, Representation Learning
+    note: Data Cleaning, Integrations of Learning and Reasoning, Logic Programming, KRR, Representation Learning
 
 
   
