@@ -65,12 +65,6 @@ faculty:
   
 
 phd:
-  - role: PhD Student (2019—)
-    name: Joseph Singleton
-    im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4O_nYaMAAAAJ&citpid=1
-    scholar: scholar.google.co.uk/citations?user=4O_nYaMAAAAJ&hl=en
-    home: www.cardiff.ac.uk/people/research-students/view/1708571-singleton-joseph
-    note: Truth discovery, computational social choice, epistemic logic, belief revision, argumentation
   - role: PhD Student
     name: Gregory Butterworth
     home: www.cardiff.ac.uk/people/research-students/view/1472112-butterworth-gregory
@@ -88,4 +82,10 @@ phd:
     note: Data Cleaning, Integrations of Learning and Reasoning, Logic Programming, KRR, Representation Learning
 
 
-  
+  fphd:
+  - role: PhD Student (2019—2023)
+    name: Joseph Singleton
+    im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4O_nYaMAAAAJ&citpid=1
+    scholar: scholar.google.co.uk/citations?user=4O_nYaMAAAAJ&hl=en
+    home: www.cardiff.ac.uk/people/research-students/view/1708571-singleton-joseph
+    note: Truth discovery, computational social choice, epistemic logic, belief revision, argumentation
