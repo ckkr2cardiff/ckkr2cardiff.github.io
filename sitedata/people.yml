@@ -62,7 +62,13 @@ faculty:
     scholar: scholar.google.co.in/citations?user=umUQUMYAAAAJ&hl=en
     im: static/images/people/akash_pr.jpeg
     note: Social Network Analysis, Graph Neural Networks
-  
+  - role: Postdoc
+    name: Nitesh Kumar
+    scholar: scholar.google.com/citations?user=nq4neTsAAAAJ&hl=en
+    im: static/images/people/nitesh-kumar.jpg
+    home: sites.google.com/view/niteshroyal
+    tw: niteshroyal30
+    note: Probabilistic Logic Programming, Neuro-Symbolic AI, and Commonsense Reasoning
 
 phd:
   - role: PhD Student
