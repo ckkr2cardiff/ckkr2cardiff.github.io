@@ -57,6 +57,12 @@ faculty:
     scholar: scholar.google.de/citations?user=_ik3L7wAAAAJ&hl=de
     im: https://profiles-cardiff.imgix.net/attachments/4247?w=200&h=200&auto=format&crop=faces&fit=crop&q=90"
     note: Explainable AI, Knowledge Graphs and Description Logics, Computational Argumentation, Probabilistic Reasoning, Inconsistency Tolerance
+  - role: Lecturer
+    name: Jandson S. Ribeiro
+    home: jandsonribeiro.github.io/home/
+    scholar: https://scholar.google.com/citations?user=Yxz-38kAAAAJ&hl=en
+    im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yxz-38kAAAAJ&citpid=2
+    note: Belief Change, Logic,  Inconsistency Measures, Knowledge Representation and Reasoning
   - role: Postdoc
     name: Akash Anil
     scholar: scholar.google.co.in/citations?user=umUQUMYAAAAJ&hl=en
@@ -82,10 +88,10 @@ phd:
   - role: PhD Student (1/2023 - )
     name: Zhiliang Xiang
     home: zl-xiang.github.io
-    im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jzhgmNIAAAAJ&citpid=1
+    im: https://media.licdn.com/dms/image/D4E03AQFNouo9l0x3LQ/profile-displayphoto-shrink_200_200/0/1666002402419?e=1714608000&v=beta&t=5M1FwYeU-eLdPyiSng5jGrXWO1qtncVX-pk3KV71Q3g
     scholar: scholar.google.com/citations?hl=en&user=jzhgmNIAAAAJ
     github: zl-xiang
-    note: Data Cleaning, Integrations of Learning and Reasoning, Logic Programming, KRR, Representation Learning
+    note: Data Cleaning, Integrations of Learning and Reasoning, KRR, Representation Learning
 
 
 fphd:
