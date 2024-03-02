@@ -60,7 +60,7 @@ faculty:
   - role: Lecturer
     name: Jandson S. Ribeiro
     home: jandsonribeiro.github.io/home/
-    scholar: https://scholar.google.com/citations?user=Yxz-38kAAAAJ&hl=en
+    scholar: scholar.google.com/citations?user=Yxz-38kAAAAJ&hl=en
     im: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yxz-38kAAAAJ&citpid=2
     note: Belief Change, Logic,  Inconsistency Measures, Knowledge Representation and Reasoning
   - role: Postdoc
